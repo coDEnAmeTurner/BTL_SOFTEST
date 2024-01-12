@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REDDIT_CREATE_COMMUNITY_TEST", "REDDIT_CREATE_COMMUNITY_TEST\REDDIT_CREATE_COMMUNITY_TEST.csproj", "{A3259707-C8A7-491A-96F2-35E0C75AF401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3259707-C8A7-491A-96F2-35E0C75AF401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3259707-C8A7-491A-96F2-35E0C75AF401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3259707-C8A7-491A-96F2-35E0C75AF401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3259707-C8A7-491A-96F2-35E0C75AF401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB4F7AA7-8F0E-4B0D-9799-29EAD9BEBCA7}
+	EndGlobalSection
+EndGlobal
